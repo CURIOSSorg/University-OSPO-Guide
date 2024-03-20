@@ -1,6 +1,6 @@
 # Welcome
 
-## Welcome to the CURIOSS Guide to setting up a University Open Source Program Office (OSPO).
+_Welcome to the CURIOSS Guide to setting up a University Open Source Program Office (OSPO)._
 
 [CURIOSS](https://curioss.org/) is a <b>C</b>ommunity for those working in <b>U</b>niversity and <b>R</b>esearch <b>I</b>nstitution <b>OSPOs</b>.
 
