@@ -5,9 +5,6 @@ format: jb-book
 root: intro
 chapters:
 - file: what-is-an-academic-ospo
-  sections:
-  - file: what-is-an-academic-ospo/the-growing-importance-of-open-source-in-the-university-context.md
-  - file: what-is-an-academic-ospo/what-is-a-university-ospo.md
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
